@@ -16,19 +16,19 @@
 
 ## Run Locally
 
-Clone the project
+**Step:1-** Clone the project
 
 ```bash
   git clone https://github.com/Prakashsaw/Real-Time-Chat-App.git
 ```
 
-Go to the project directory
+**Step:2-** Go to the project directory
 
 ```bash
   cd Real-Time-Chat-App
 ```
 
-Install dependencies in all folders like client, server and socket one by one
+**Step:3-** Install dependencies in all folders like client, server and socket one by one
 
 * Installl dependencies for client
 ```bash
@@ -46,7 +46,13 @@ Install dependencies in all folders like client, server and socket one by one
   npm install
 ```
 
-Start these all three client, server and socket in three seperate terminals
+**Step:4-** Make .env file in server folder which contain yours development database keys of MongoDB and JWT secrete key
+```bash
+  ATLAS_URI = 
+  JWT_SECRET_KEY =
+```
+
+**Step:5-** Start these all three client, server and socket in three seperate terminals
 
 * Start the client
 ```bash
@@ -67,6 +73,8 @@ Start these all three client, server and socket in three seperate terminals
   cd socket
   nodemon index.js
 ```
+
+**Step:6-** Now your Chatting app be running in your local host
 
 ## Features
 
