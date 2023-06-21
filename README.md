@@ -74,7 +74,7 @@
   nodemon index.js
 ```
 
-**Step:6-** Now your Chatting app is running in your local host
+**Step:6-** Now your Chatting app is running in your local host.
 
 ## Features
 
