@@ -67,3 +67,23 @@ Start these all three client, server and socket in three seperate terminals
   cd socket
   nodemon index.js
 ```
+
+## Features
+
+### Login/Registration
+
+### Authenticaton
+
+### Real Time Chatting with Typing indicators
+
+### One to One chat
+
+### Create Group Chats
+
+### Notifications 
+
+### Add or Remove users from group
+
+
+## Made By
+- [@Prakashsaw](https://github.com/Prakashsaw)
