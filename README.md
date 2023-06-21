@@ -25,17 +25,24 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd Real-Time-Chat-App
 ```
 
-Install dependencies
+Install dependencies in all folders one by one
 
+* Installl dependencies for client
 ```bash
+  cd client/
   npm install
 ```
-
+* Installl dependencies for server
 ```bash
-  cd frontend/
+  cd server/
+  npm install
+```
+* Installl dependencies for socket
+```bash
+  cd socket/
   npm install
 ```
 
