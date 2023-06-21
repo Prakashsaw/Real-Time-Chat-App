@@ -28,7 +28,7 @@ Go to the project directory
   cd Real-Time-Chat-App
 ```
 
-Install dependencies in all folders one by one
+Install dependencies in all folders like client, server and socket one by one
 
 * Installl dependencies for client
 ```bash
@@ -46,16 +46,24 @@ Install dependencies in all folders one by one
   npm install
 ```
 
-Start the server
+Start these all three client, server and socket in three seperate terminals
 
+* Start the client
 ```bash
+  //open new terminal
+  cd client
   npm run start
 ```
 
-Start the Client
-
+* Start the server
 ```bash
-  //open now terminal
-  cd frontend
-  npm start
+  //open new terminal
+  cd server
+  nodemon index.js
+```
+* Start the socket
+```bash
+  //open new terminal
+  cd socket
+  nodemon index.js
 ```
