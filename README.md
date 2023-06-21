@@ -12,14 +12,14 @@
 
 **Database:** Mongo DB
 
-new line \
+
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/Prakashsaw/Real-Time-Chat-App.git
 ```
 
 Go to the project directory
