@@ -78,11 +78,11 @@
 
 ## Features
 
-### Login/Registration
+#### Login/Registration
 
 ### Authenticaton
 
-### Real Time Chatting with Typing indicators
+#### Real Time Chatting with Typing indicators
 
 ### Active users Indicator (when user is online)
 
