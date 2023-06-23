@@ -80,19 +80,19 @@
 
 #### Login/Registration
 
-### Authenticaton
+#### Authenticaton
 
 #### Real Time Chatting with Typing indicators
 
-### Active users Indicator (when user is online)
+#### Active users Indicator (when user is online)
 
-### One to One chat
+#### One to One chat
 
-### Create Group Chats
+#### Create Group Chats
 
-### Notifications icon
+#### Notifications icon
 
-### Add or Remove users from group
+#### Add or Remove users from group
 
 
 ## Made By
