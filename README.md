@@ -84,11 +84,13 @@
 
 ### Real Time Chatting with Typing indicators
 
+### Active users Indicator
+
 ### One to One chat
 
 ### Create Group Chats
 
-### Notifications 
+### Notifications icon
 
 ### Add or Remove users from group
 
