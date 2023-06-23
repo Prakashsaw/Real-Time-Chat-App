@@ -84,7 +84,7 @@
 
 ### Real Time Chatting with Typing indicators
 
-### Active users Indicator (#### Online or not)
+### Active users Indicator (when user is online)
 
 ### One to One chat
 
